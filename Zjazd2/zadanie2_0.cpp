@@ -15,6 +15,9 @@ int main(){
 
     int perGuest = (numOfPizza * 8) / numOfGuests;
 
-    cout << "Liczba kawalkow na goscia:  " << perGuest;
+    cout << "Liczba kawalkow na goscia:  " << perGuest << endl;
 
+    int forOrganizator = (numOfPizza * 8) % numOfGuests;
+
+    cout << "Liczba kawalkow dla organizatora:  " << forOrganizator << endl;
 }
