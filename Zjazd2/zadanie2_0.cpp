@@ -20,4 +20,6 @@ int main(){
     int forOrganizator = (numOfPizza * 8) % numOfGuests;
 
     cout << "Liczba kawalkow dla organizatora:  " << forOrganizator << endl;
+
+    return 0;
 }
