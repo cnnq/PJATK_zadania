@@ -3,7 +3,7 @@
 
 using namespace std;
 
-int main31() {
+int main() {
 
 	cout << " === Kalkulator === " << endl << endl;
 
