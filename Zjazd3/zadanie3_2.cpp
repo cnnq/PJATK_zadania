@@ -3,7 +3,7 @@
 
 using namespace std;
 
-int main32() {
+int main() {
 
 	char c;
 
