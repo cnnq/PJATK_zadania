@@ -3,7 +3,7 @@
 
 using namespace std;
 
-int main51() {
+int main() {
 
 	int n;
 	cout << "Liczba elementow wektora: ";
